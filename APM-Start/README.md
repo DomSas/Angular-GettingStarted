@@ -1,3 +1,1 @@
-# Test app Pluralsight course "Angular: Getting Started"
-
-TEst
+# Test app Pluralsight course "Angular: Getting Started" 2
